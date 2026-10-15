@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Deep Cyber Navy Background Circle -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M54,54m-50,0a50,50 0,1 1,100 0a50,50 0,1 1,-100 0" />
+    <!-- Outer Glow Ring -->
+    <path
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="2.5"
+        android:fillColor="#00000000"
+        android:pathData="M54,54m-45,0a45,45 0,1 1,90 0a45,45 0,1 1,-90 0" />
+    <!-- Outer Wi-Fi Signal Arc -->
+    <path
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M30,38 C43,25 65,25 78,38" />
+    <!-- Inner Wi-Fi Signal Arc -->
+    <path
+        android:strokeColor="#10B981"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M39,47 C47,39 61,39 69,47" />
+    <!-- Center Antenna Node -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M54,54m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0" />
+    <!-- Router Base Body -->
+    <path
+        android:fillColor="#1E293B"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="2.5"
+        android:pathData="M28,64 L80,64 C83,64 85,66 85,69 L85,79 C85,82 83,84 80,84 L28,84 C25,84 23,82 23,79 L23,69 C23,66 25,64 28,64 Z" />
+    <!-- Status LEDs on Router -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M35,74m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0" />
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M47,74m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M73,74m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0" />
+</vector>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_purple">#5E17EB</color>
+    <color name="primary_purple_dark">#4A0ECC</color>
+    <color name="primary_purple_light">#7C3AED</color>
+    <color name="purple_header_bg">#581C87</color>
+    <color name="purple_tint">#F5EEFD</color>
+    <color name="purple_tint_border">#DDD6FE</color>
+
+    <color name="screen_background">#F8F9FD</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="card_stroke">#EBECEF</color>
+
+    <color name="text_primary">#1E1B4B</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="text_muted">#9CA3AF</color>
+
+    <color name="badge_green_bg">#E6F9F0</color>
+    <color name="badge_green_text">#10B981</color>
+    <color name="badge_purple_bg">#F3E8FF</color>
+    <color name="badge_purple_text">#7C3AED</color>
+    <color name="badge_amber_bg">#FEF3C7</color>
+    <color name="badge_amber_text">#D97706</color>
+    <color name="badge_red_bg">#FEE2E2</color>
+    <color name="badge_red_text">#EF4444</color>
+    <color name="badge_blue_bg">#E0F2FE</color>
+    <color name="badge_blue_text">#0284C7</color>
+
+    <color name="terminal_bg">#0F172A</color>
+    <color name="terminal_text">#38BDF8</color>
+</resources>

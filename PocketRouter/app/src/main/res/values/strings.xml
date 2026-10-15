@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PocketRouter AutoHotspot</string>
+    <string name="accessibility_service_description">Automatically turns on the Mobile Hotspot Quick Settings tile when your Samsung Galaxy M11 powers on after a battery drain or reboot.</string>
+</resources>

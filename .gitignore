@@ -1,0 +1,15 @@
+*.iml
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+*.apk
+PocketRouter/build/
+PocketRouter/app/build/
+PocketRouter/.gradle/
+PocketRouter/local.properties
